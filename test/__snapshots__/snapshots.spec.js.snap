@@ -436,6 +436,18 @@ exports[`dateFormat set to true 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -778,6 +790,18 @@ exports[`input input: set to false 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -1134,6 +1158,18 @@ exports[`input input: set to true 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -1484,6 +1520,18 @@ exports[`inputProps with className specified 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -1841,6 +1889,18 @@ exports[`inputProps with disabled specified 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -2192,6 +2252,18 @@ exports[`inputProps with name specified 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -2549,6 +2621,18 @@ exports[`inputProps with placeholder specified 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -2900,6 +2984,18 @@ exports[`inputProps with required specified 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -3256,6 +3352,18 @@ exports[`open set to false 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -3606,6 +3714,18 @@ exports[`open set to true 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -3962,6 +4082,18 @@ exports[`test className: set to arbitraty value 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -4312,6 +4444,18 @@ exports[`test defaultValue: set to arbitrary value 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -4668,6 +4812,18 @@ exports[`test everything default: renders correctly 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -4993,6 +5149,18 @@ exports[`test isValidDate: only valid if after yesterday 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -5349,6 +5517,18 @@ exports[`test renderDay: specified 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -5699,6 +5879,18 @@ exports[`test renderMonth: specified 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -6055,6 +6247,18 @@ exports[`test renderYear: specified 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -6408,6 +6612,18 @@ exports[`test value: set to arbitrary value 1`] = `
         <tfoot>
           <tr>
             <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
+        <tfoot>
+          <tr>
+            <td
               className="rdtTimeToggle"
               colSpan={7}
               onClick={[Function]}>
@@ -6758,6 +6974,18 @@ exports[`timeFormat set to false 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
       </table>
     </div>
   </div>
@@ -7101,6 +7329,18 @@ exports[`timeFormat set to true 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td
@@ -7454,6 +7694,18 @@ exports[`viewMode set to days 1`] = `
             </td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td
+              className="rdtClearDate"
+              colSpan={7}
+              onClick={[Function]}>
+              <span>
+                Datum wissen
+              </span>
+            </td>
+          </tr>
+        </tfoot>
         <tfoot>
           <tr>
             <td

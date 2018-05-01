@@ -24,7 +24,7 @@
   position: static;
 }
 
-.rdtPicker .rdtTimeToggle {
+.rdtPicker .rdtTimeToggle, .rdtPicker .rdtClearDate {
   text-align: center;
 }
 
@@ -44,6 +44,7 @@
 .rdtPicker td.rdtHour:hover,
 .rdtPicker td.rdtMinute:hover,
 .rdtPicker td.rdtSecond:hover,
+.rdtPicker .rdtClearDate:hover,
 .rdtPicker .rdtTimeToggle:hover {
   background: #eeeeee;
   cursor: pointer;

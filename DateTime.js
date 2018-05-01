@@ -240,6 +240,10 @@ var Datetime = createClass({
 		};
 	},
 
+	clearDate: function() {
+		this.onInputChange({target: { value: '' }});
+	},
+
 	setDate: function( type ) {
 		var me = this,
 			nextViews = {
@@ -394,7 +398,7 @@ var Datetime = createClass({
 	componentProps: {
 		fromProps: ['value', 'isValidDate', 'renderDay', 'renderMonth', 'renderYear', 'timeConstraints'],
 		fromState: ['viewDate', 'selectedDate', 'updateOn'],
-		fromThis: ['setDate', 'setTime', 'showView', 'addTime', 'subtractTime', 'updateSelectedDate', 'localMoment', 'handleClickOutside']
+		fromThis: ['setDate', 'setTime', 'showView', 'addTime', 'subtractTime', 'updateSelectedDate', 'clearDate', 'localMoment', 'handleClickOutside']
 	},
 
 	getComponentProps: function() {

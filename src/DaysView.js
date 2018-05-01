@@ -23,7 +23,12 @@ var DateTimePickerDays = onClickOutside( createClass({
 				]),
 				React.createElement('tr', { key: 'd'}, this.getDaysOfWeek( locale ).map( function( day, index ) { return React.createElement('th', { key: day + index, className: 'dow'}, day ); }) )
 			]),
-			React.createElement('tbody', { key: 'tb' }, this.renderDays())
+			React.createElement('tbody', { key: 'tb' }, this.renderDays()),
+			React.createElement('tfoot', { key: 'tfc' }, [
+				React.createElement('tr', { key: 'f' }, [
+					React.createElement('td', { key: 'c', className: 'rdtClearDate', colSpan: 7, onClick: this.props.clearDate}, React.createElement('span', {}, 'Datum wissen' )),
+				]),
+			]),
 		];
 
 		if ( footer )
